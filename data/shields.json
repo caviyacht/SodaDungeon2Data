@@ -1,0 +1,93 @@
+[
+  {
+    "name": "stool",
+    "itemId": "2",
+    "stats": ["hp=1"]
+  },
+  {
+    "name": "buckler",
+    "itemId": "4",
+    "stats": ["hp=2"]
+  },
+  {
+    "name": "golden_eye",
+    "itemId": "10",
+    "stats": ["hp=10"],
+    "slots": ["gem_1"]
+  },
+  {
+    "name": "iron_shield",
+    "itemId": "13",
+    "stats": ["hp=5"]
+  },
+  {
+    "name": "goblin_shield",
+    "itemId": "56",
+    "stats": ["hp=3"]
+  },
+  {
+    "name": "frog_shield",
+    "itemId": "68",
+    "stats": ["hp=28"],
+    "slots": ["gem_1"]
+  },
+  {
+    "name": "leather_shield",
+    "itemId": "86",
+    "stats": ["hp=4"]
+  },
+  {
+    "name": "pig_shield",
+    "itemId": "87",
+    "stats": ["hp=5"]
+  },
+  {
+    "name": "bullseye_shield",
+    "itemId": "105",
+    "stats": ["hp=6"],
+    "slots": ["gem_1"]
+  },
+  {
+    "name": "steel_shield",
+    "itemId": "108",
+    "stats": ["hp=6"]
+  },
+  {
+    "name": "gold_shield",
+    "itemId": "109",
+    "stats": ["hp=7", "gold_find=20"]
+  },
+  {
+    "name": "darkwing_shield",
+    "itemId": "111",
+    "stats": ["hp=8"]
+  },
+  {
+    "name": "prismashell_shield",
+    "itemId": "122",
+    "stats": ["hp=25"]
+  },
+  {
+    "name": "power_shield",
+    "itemId": "142",
+    "stats": ["hp=35", "atk=15"],
+    "slots": ["gem_1"]
+  },
+  {
+    "name": "stoplight_shield",
+    "itemId": "150",
+    "stats": ["hp=35", "hp_regen=15"],
+    "slots": ["gem_1"]
+  },
+  {
+    "name": "cosmic_shield",
+    "itemId": "154",
+    "stats": ["hp=40", "magic_boost=15", "essence_find=3"],
+    "slots": ["gem_1"]
+  },
+  {
+    "name": "shield_of_the_divine",
+    "itemId": "167",
+    "stats": ["hp=30", "dmg_reduction=10"]
+  }
+]

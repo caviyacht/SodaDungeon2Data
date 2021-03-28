@@ -1,0 +1,223 @@
+[
+  {
+    "name": "strike",
+    "type": "physical", 
+    "stats": ["atk_multiplier=1"],
+    "flags": ["can_back_atk"]
+  },
+  { 
+    "name": "defend",
+    "type": "physical"
+  },
+  { 
+    "name": "burp",
+    "type": "physical", 
+    "stats": ["atk_multiplier=1.8", "chance_to_psn=25"]
+  },
+  {
+    "name": "sharpen",
+    "type": "magical",
+    "stats": ["crit_chance=100"],
+    "statuses": ["auto_crits=3"]
+  },
+  {
+    "name": "swift_metal",
+    "type": "physical",
+    "stats": ["atk_multiplier=2"]
+  },
+  {
+    "name": "transmute",
+    "type": "magical",
+    "flags": ["turns_target_to_ore"]
+  },
+  {
+    "name": "pickaxe",
+    "type": "physical",
+    "stats": ["atk_multiplier=0.75", "ore_bust=5"]
+  },
+  {
+    "name": "group_heal",
+    "type": "magical",
+    "stats": ["hp_multiplier=0.2"]
+  },
+  {
+    "name": "biohazard",
+    "type": "magical",
+    "stats": ["atk_multiplier=1.2", "chance_to_psn=100"]
+  },
+  {
+    "name": "first_aid",
+    "type": "magical"
+  },
+  {
+    "name": "recharge",
+    "type": "magical",
+    "stats": ["mp_regen=8"]
+  },
+  {
+    "name": "torment",
+    "type": "magical",
+    "stats": ["atk_multiplier=0.6"]
+  },
+  {
+    "name": "ransack",
+    "type": "physical",
+    "stats": ["atk_multiplier=1.2"],
+    "flags": ["steals_items_from_target", "steals_gold_from_target", "steals_essence_from_target"]
+  },
+  {
+    "name": "pilfer",
+    "type": "physical",
+    "flags": ["steals_items_from_target", "steals_gold_from_target"]
+  },
+  {
+    "name": "mark",
+    "type": "magical",
+    "stats": ["atk_multiplier=1.5"],
+    "statuses": ["marked=2"]
+  },
+  {
+    "name": "curse",
+    "type": "magical",
+    "flags": ["turns_target_to_stone"],
+    "statuses": ["stoned=2"]
+  },
+  {
+    "name": "noxin",
+    "type": "magical",
+    "stats": ["atk_multiplier=0.75", "chance_to_psn=75"]
+  },
+  {
+    "name": "stun",
+    "type": "physical",
+    "flags": ["stuns_target"],
+    "statuses": ["stun=2"]
+  },
+  {
+    "name": "dual_strike",
+    "type": "physical",
+    "flags": ["strikes_target_twice"]
+  },
+  {
+    "name": "shadow_slicer_2",
+    "type": "physical",
+    "stats": ["atk_multiplier=0.5"]
+  },
+  {
+    "name": "cook",
+    "type": "physical"
+  },
+  {
+    "name": "rock_toss",
+    "type": "physical",
+    "stats": ["atk_multiplier=1.1"]
+  },
+  {
+    "name": "heal",
+    "type": "magical"
+  },
+  { 
+    "name": "phantasmal_claw",
+    "type": "magical", 
+    "stats": ["atk_multiplier=0.55"]
+  },
+  { 
+    "name": "tech_laser",
+    "type": "magical", 
+    "stats": ["atk_multiplier=2.2"],
+    "flags": ["can_back_atk"]
+  },
+  { 
+    "name": "skull_bash",
+    "type": "magical", 
+    "stats": ["atk_multiplier=2", "chance_to_burn=100"],
+    "flags": ["can_back_atk"]
+  },
+  {
+    "name": "judgement",
+    "type": "magical",
+    "stats": ["chance_to_halve_target_hp=50"]
+  },
+  {
+    "name": "dark_flame",
+    "type": "magical",
+    "stats": ["atk_multiplier=0.8", "chance_to_burn=100"]
+  },
+  {
+    "name": "eviscerate",
+    "type": "magical",
+    "stats": ["atk_multiplier=1.2"],
+    "cooldown": 1
+  },
+  {
+    "name": "foretell",
+    "type": "magical",
+    "flags": ["forces_warps_at_next_alt_path"],
+    "cooldown": 5
+  },
+  {
+    "name": "greedy",
+    "type": "static"
+  },
+  {
+    "name": "excavator",
+    "type": "static"
+  },
+  {
+    "name": "soul_bond",
+    "type": "static"
+  },
+  {
+    "name": "leader",
+    "type": "static"
+  },
+  {
+    "name": "magic_inept",
+    "type": "static"
+  },
+  {
+    "name": "dual_wield",
+    "type": "static"
+  },
+  {
+    "name": "dark_savior",
+    "type": "static"
+  },
+  {
+    "name": "party_protection",
+    "type": "static"
+  },
+  {
+    "name": "independence",
+    "type": "static"
+  },
+  {
+    "name": "precognition",
+    "type": "static",
+    "flags": ["gives_double_warp_distance"]
+  },
+  {
+    "name": "revenge",
+    "type": "static"
+  },
+  {
+    "name": "hardy",
+    "type": "static",
+    "stats": ["dmg_reduction=10"]
+  },
+  {
+    "name": "prospector",
+    "type": "static",
+    "stats": ["ore_find=12"]
+  },
+  {
+    "name": "magic_master",
+    "type": "static",
+    "stats": ["magic_boost=25"]
+  },
+  {
+    "name": "dark_momentum",
+    "type": "static",
+    "stats": ["spd=50"]
+  }
+]
