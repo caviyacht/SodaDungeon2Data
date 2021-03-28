@@ -1,0 +1,73 @@
+[
+  {
+    "name": "meal_0",
+    "cost": 0,
+    "target": "all_allies"
+  },
+  {
+    "name": "meal_1",
+    "cost": 2,
+    "target": "random_ally",
+    "effectModifier": 1
+  },
+  {
+    "name": "meal_2",
+    "cost": 2,
+    "target": "random_ally",
+    "effectModifier": 2
+  },
+  {
+    "name": "meal_3",
+    "cost": 2,
+    "target": "all_allies",
+    "effectModifier": 1
+  },
+  {
+    "name": "meal_4",
+    "cost": 4,
+    "target": "all_enemies",
+    "effectModifier": 25
+  },
+  {
+    "name": "meal_5",
+    "cost": 4,
+    "target": "all_allies",
+    "effectModifier": 10
+  },
+  {
+    "name": "meal_6",
+    "cost": 4,
+    "target": "all_allies",
+    "effectModifier": 1
+  },
+  {
+    "name": "meal_7",
+    "cost": 5,
+    "target": "all_allies",
+    "effectModifier": 10
+  },
+  {
+    "name": "meal_8",
+    "cost": 10,
+    "target": "all_allies",
+    "effectModifier": 2
+  },
+  {
+    "name": "meal_9",
+    "cost": 10,
+    "target": "all_allies",
+    "effectModifier": "10"
+  },
+  {
+    "name": "meal_10",
+    "cost": 20,
+    "target": "all_allies",
+    "effectModifier": 5
+  },
+  {
+    "name": "meal_11",
+    "cost": 20,
+    "target": "all_enemies",
+    "effectModifier": 20
+  }
+]

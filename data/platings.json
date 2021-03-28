@@ -1,0 +1,26 @@
+[
+  {
+    "name": "iron_bar",
+    "stats": ["atk_boost=5"]
+  },
+  {
+    "name": "copper_bar",
+    "stats": ["status_resist=3"]
+  },
+  {
+    "name": "silver_bar",
+    "stats": ["crit_bonus=50"]
+  },
+  {
+    "name": "gold_bar",
+    "stats": ["gold_multiplier=0.05"]
+  },
+  {
+    "name": "platinum_bar",
+    "stats": ["hp_boost=10"]
+  },
+  {
+    "name": "uranium_bar",
+    "stats": ["all_stat_boost=7"]
+  }
+]

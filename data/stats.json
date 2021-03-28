@@ -1,0 +1,121 @@
+[
+  {
+    "name": "hp",
+    "type": "number"
+  },
+  {
+    "name": "hp_boost",
+    "type": "percentage"
+  },
+  {
+    "name": "atk",
+    "type": "number"
+  },
+  {
+    "name": "atk_boost",
+    "type": "percentage"
+  },
+  {
+    "name": "mp",
+    "type": "number"
+  },
+  {
+    "name": "mp_boost",
+    "type": "percentage"
+  },
+  {
+    "name": "crit_chance",
+    "type": "percentage"
+  },
+  {
+    "name": "crit_bonus",
+    "type": "percentage"
+  },
+  {
+    "name": "magic_boost",
+    "type": "percentage"
+  },
+  {
+    "name": "phys_boost",
+    "type": "percentage"
+  },
+  {
+    "name": "evade",
+    "type": "percentage"
+  },
+  {
+    "name": "dmg_reduction",
+    "type": "percentage"
+  },
+  {
+    "name": "dmg_reflection",
+    "type": "percentage"
+  },
+  {
+    "name": "status_resist",
+    "type": "percentage"
+  },
+  {
+    "name": "hp_regen",
+    "type": "number"
+  },
+  {
+    "name": "mp_regen",
+    "type": "number"
+  },
+  {
+    "name": "essence_find",
+    "type": "percentage",
+    "scope": "party"
+  },
+  {
+    "name": "gold_find",
+    "type": "percentage",
+    "scope": "party"
+  },
+  {
+    "name": "item_find",
+    "type": "number",
+    "scope": "party"
+  },
+  {
+    "name": "chance_for_dungeon_keys",
+    "type": "percentage",
+    "scope": "party"
+  },
+  {
+    "name": "ore_find",
+    "type": "number",
+    "scope": "party"
+  },
+  {
+    "name": "mastery_xp_boost",
+    "type": "percentage",
+    "scope": "party"
+  },
+  {
+    "name": "chance_to_burn",
+    "type": "percentage"
+  },
+  {
+    "name": "chance_to_psn",
+    "type": "percentage"
+  },
+  {
+    "name": "chance_for_food",
+    "type": "percentage"
+  },
+  {
+    "name": "spd",
+    "type": "number"
+  },
+  {
+    "name": "gold_multiplier",
+    "type": "multiplier",
+    "scope": "party"
+  },
+  {
+    "name": "all_stat_boost",
+    "type": "percentage"
+  }
+]

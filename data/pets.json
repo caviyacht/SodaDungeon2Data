@@ -1,0 +1,42 @@
+[
+  {
+    "name": "whale",
+    "stats": ["hp_boost=1"]
+  },
+  { 
+    "name": "platypus",
+    "stats": ["status_resist=1"]
+  },
+  { 
+    "name": "hedgehog",
+    "stats": ["dmg_reflection=1"]
+  },
+  { 
+    "name": "pug",
+    "stats": ["gold_find=1"]
+  },
+  {  
+    "name": "rock",
+    "stats": ["dmg_reduction=1"]
+  },
+  { 
+    "name": "chameleon",
+    "stats": ["evade=1"]
+  },
+  { 
+    "name": "mosquito",
+    "stats": ["phys_boost=1"]
+  },
+  { 
+    "name": "cat",
+    "stats": ["item_find=1"] 
+  },
+  {  
+    "name": "fairy",
+    "stats": ["essence_find=1"]
+  },
+  { 
+    "name": "angel",
+    "stats": ["magic_boost=1"]
+  }
+]

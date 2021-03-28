@@ -1,0 +1,10 @@
+[
+  { 
+    "name": "allsight"
+  },
+  { 
+    "name": "kitchen",
+    "maxLevel": 10, 
+    "stats": ["hp_boost_kitchen=2"]
+  }
+]
