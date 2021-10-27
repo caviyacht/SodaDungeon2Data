@@ -305,7 +305,7 @@
     { "id": "50:tavern_owner", "relics": ["113:tavern_owner"], "stats": [] },
     { "id": "50:janitor", "relics": ["114:janitor"], "stats": [] }
   ],
-  "members": [
+  "pets": [
     { "id": "whale", "stats": ["hp_boost=1"] },
     { "id": "platypus", "stats": ["status_resist=1"] },
     { "id": "hedgehog", "stats": ["dmg_reflection=1"] },
