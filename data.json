@@ -2,643 +2,98 @@
   "characters": [
     {
       "id": "soda_junkie",
-      "masteryRewards": [
-        {
-          "id": "4",
-          "stats": ["hp=2"]
-        },
-        {
-          "id": "9",
-          "stats": ["evade=1"]
-        },
-        {
-          "id": "15",
-          "stats": ["evade=3"]
-        },
-        {
-          "id": "18",
-          "stats": ["evade=1"]
-        },
-        {
-          "id": "19",
-          "stats": ["evade=1"]
-        },
-        {
-          "id": "24",
-          "stats": ["evade=2"]
-        },
-        {
-          "id": "25",
-          "skills": ["burp"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["100:soda_junkie"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": [],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1"],
-      "stats": ["hp=10", "atk=1", "mp=5", "spd=100"],
-      "type": "player"
+      "stats": ["hp=10", "atk=1", "mp=5", "spd=100"]
     },
     {
       "id": "carpenter",
-      "masteryRewards": [
-        {
-          "id": "15",
-          "stats": ["atk_boost=3"]
-        },
-        {
-          "id": "18",
-          "stats": ["atk=2"]
-        },
-        {
-          "id": "19",
-          "stats": ["atk=2"]
-        },
-        {
-          "id": "23",
-          "stats": ["mp=5"]
-        },
-        {
-          "id": "25",
-          "skills": ["sharpen"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["101:carpenter"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["swift_metal"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1"],
-      "stats": ["hp=13", "atk=1", "mp=10", "spd=100"],
-      "type": "player"
+      "stats": ["hp=13", "atk=1", "mp=10", "spd=100"]
     },
     {
       "id": "miner",
-      "masteryRewards": [
-        {
-          "id": "9",
-          "stats": ["ore_find=2"]
-        },
-        {
-          "id": "15",
-          "stats": ["ore_find=5"]
-        },
-        {
-          "id": "18",
-          "stats": ["ore_find=2"]
-        },
-        {
-          "id": "19",
-          "stats": ["ore_find=2"]
-        },
-        {
-          "id": "24",
-          "stats": ["ore_find=2"]
-        },
-        {
-          "id": "25",
-          "skills": ["transmute"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["102:miner"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["pickaxe", "prospector", "excavator"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1"],
-      "stats": ["hp=11", "atk=2", "mp=20", "spd=100"],
-      "type": "player"
+      "stats": ["hp=11", "atk=2", "mp=20", "spd=100"]
     },
     {
       "id": "nurse",
-      "masteryRewards": [
-        {
-          "id": "9",
-          "stats": ["status_resist=2"]
-        },
-        {
-          "id": "15",
-          "stats": ["status_resist=5"]
-        },
-        {
-          "id": "18",
-          "stats": ["status_resist=2"]
-        },
-        {
-          "id": "19",
-          "stats": ["status_resist=2"]
-        },
-        {
-          "id": "24",
-          "stats": ["status_resist=2"]
-        },
-        {
-          "id": "25",
-          "skills": ["group_heal"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["103:nurse"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["first_aid", "biohazard"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1"],
-      "stats": ["hp=13", "atk=1", "mp=30", "spd=100"],
-      "type": "player"
+      "stats": ["hp=13", "atk=1", "mp=30", "spd=100"]
     },
     {
       "id": "psychic",
-      "masteryRewards": [
-        {
-          "id": "9",
-          "stats": ["mp_regen=2"]
-        },
-        {
-          "id": "15",
-          "stats": ["mp_regen=5"]
-        },
-        {
-          "id": "17",
-          "stats": ["magic_boost=3"]
-        },
-        {
-          "id": "18",
-          "stats": ["mp_regen=2"]
-        },
-        {
-          "id": "19",
-          "stats": ["magic_boost=3"]
-        },
-        {
-          "id": "24",
-          "stats": ["magic_boost=3"]
-        },
-        {
-          "id": "25",
-          "skills": ["recharge"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["104:psychic"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["torment", "magic_master"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1"],
-      "stats": ["hp=15", "atk=3", "mp=30", "spd=100"],
-      "type": "player"
+      "stats": ["hp=15", "atk=3", "mp=30", "spd=100"]
     },
     {
       "id": "thief",
-      "masteryRewards": [
-        {
-          "id": "9",
-          "stats": ["crit_chance=1"]
-        },
-        {
-          "id": "15",
-          "stats": ["crit_chance=3"]
-        },
-        {
-          "id": "18",
-          "stats": ["evade=3"]
-        },
-        {
-          "id": "19",
-          "stats": ["crit_chance=1"]
-        },
-        {
-          "id": "24",
-          "stats": ["evade=3"]
-        },
-        {
-          "id": "25",
-          "skills": ["ransack"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["105:thief"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["pilfer", "greedy"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1"],
-      "stats": ["hp=17", "atk=2", "mp=20", "spd=100"],
-      "type": "player"
+      "stats": ["hp=17", "atk=2", "mp=20", "spd=100"]
     },
     {
       "id": "huntress",
-      "masteryRewards": [
-        {
-          "id": "9",
-          "stats": ["dmg_reflection=2"]
-        },
-        {
-          "id": "15",
-          "stats": ["dmg_reflection=5"]
-        },
-        {
-          "id": "18",
-          "stats": ["dmg_reflection=3"]
-        },
-        {
-          "id": "19",
-          "stats": ["dmg_reflection=3"]
-        },
-        {
-          "id": "24",
-          "stats": ["dmg_reflection=3"]
-        },
-        {
-          "id": "25",
-          "skills": ["mark"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["106:huntress"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["soul_bond", "leader"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1", "accessory_2"],
-      "stats": ["hp=17", "atk=2", "mp=5", "spd=100"],
-      "type": "player"
+      "stats": ["hp=17", "atk=2", "mp=5", "spd=100"]
     },
     {
       "id": "darkmage",
-      "masteryRewards": [
-        {
-          "id": "25",
-          "skills": ["curse"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["107:darkmage"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["noxin", "magic_master"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1", "accessory_2"],
-      "stats": ["hp=19", "atk=3", "mp=30", "spd=100"],
-      "type": "player"
+      "stats": ["hp=19", "atk=3", "mp=30", "spd=100"]
     },
     {
       "id": "dual_wield",
-      "masteryRewards": [
-        {
-          "id": "4",
-          "stats": ["atk=2"]
-        },
-        {
-          "id": "8",
-          "stats": ["atk=2"]
-        },
-        {
-          "id": "13",
-          "stats": ["atk=2"]
-        },
-        {
-          "id": "17",
-          "stats": ["atk=2"]
-        },
-        {
-          "id": "25",
-          "skills": ["stun"],
-          "stats": []
-        },
-        {
-          "id": "29",
-          "stats": ["atk=5"]
-        },
-        {
-          "id": "50",
-          "relics": ["108:dual_wield"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["dual_strike", "dual_wield", "magic_inept"],
       "slots": ["weapon_1", "weapon_2", "armor_1", "accessory_1"],
-      "stats": ["hp=20", "atk=5", "mp=0", "spd=100"],
-      "type": "player"
+      "stats": ["hp=20", "atk=5", "mp=0", "spd=100"]
     },
     {
       "id": "dark_lord",
-      "masteryRewards": [
-        {
-          "id": "5",
-          "stats": ["atk=1"]
-        },
-        {
-          "id": "10",
-          "stats": []
-        },
-        {
-          "id": "25",
-          "skills": ["dark_savior"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["109:dark_lord"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["shadow_slicer_2", "dark_momentum"],
       "slots": ["weapon_1", "accessory_1", "accessory_2", "accessory_3"],
-      "stats": ["hp=50", "atk=20", "mp=30", "spd=100"],
-      "type": "player"
+      "stats": ["hp=50", "atk=20", "mp=30", "spd=100"]
     },
     {
       "id": "chef",
-      "masteryRewards": [
-        {
-          "id": "2",
-          "stats": ["gold_find=1"]
-        },
-        {
-          "id": "3",
-          "stats": ["item_find=1"]
-        },
-        {
-          "id": "4",
-          "meals": ["meal_3"],
-          "stats": []
-        },
-        {
-          "id": "6",
-          "stats": ["chance_for_dungeon_keys=1"]
-        },
-        {
-          "id": "7",
-          "stats": ["mastery_xp_boost=1"]
-        },
-        {
-          "id": "8",
-          "stats": ["atk=2"]
-        },
-        {
-          "id": "9",
-          "meals": ["meal_4"],
-          "stats": []
-        },
-        {
-          "id": "11",
-          "stats": ["gold_find=2"]
-        },
-        {
-          "id": "13",
-          "stats": ["atk=2"]
-        },
-        {
-          "id": "14",
-          "stats": ["item_find=2"]
-        },
-        {
-          "id": "15",
-          "meals": ["meal_5"],
-          "stats": []
-        },
-        {
-          "id": "16",
-          "stats": ["mastery_xp_boost=1"]
-        },
-        {
-          "id": "17",
-          "stats": ["chance_for_dungeon_keys=1"]
-        },
-        {
-          "id": "20",
-          "meals": ["meal_6"],
-          "stats": []
-        },
-        {
-          "id": "21",
-          "stats": ["gold_find=2"]
-        },
-        {
-          "id": "25",
-          "meals": ["meal_7"],
-          "stats": []
-        },
-        {
-          "id": "26",
-          "stats": ["gold_find=2"]
-        },
-        {
-          "id": "27",
-          "stats": ["item_find=2"]
-        },
-        {
-          "id": "28",
-          "stats": ["ore_find=2"]
-        },
-        {
-          "id": "29",
-          "stats": ["mastery_xp_boost=2"]
-        },
-        {
-          "id": "30",
-          "meals": ["meal_8"],
-          "stats": []
-        },
-        {
-          "id": "31",
-          "stats": ["gold_find=2"]
-        },
-        {
-          "id": "33",
-          "stats": ["ore_find=2"]
-        },
-        {
-          "id": "34",
-          "stats": ["essence_find=3"]
-        },
-        {
-          "id": "35",
-          "meals": ["meal_9"],
-          "stats": []
-        },
-        {
-          "id": "36",
-          "stats": ["gold_find=3"]
-        },
-        {
-          "id": "37",
-          "stats": ["item_find=2"]
-        },
-        {
-          "id": "38",
-          "stats": ["essence_find=3"]
-        },
-        {
-          "id": "40",
-          "meals": ["meal_10"],
-          "stats": []
-        },
-        {
-          "id": "41",
-          "stats": ["gold_find=5"]
-        },
-        {
-          "id": "45",
-          "meals": ["meal_11"],
-          "stats": []
-        },
-        {
-          "id": "46",
-          "stats": ["gold_find=5"]
-        },
-        {
-          "id": "47",
-          "stats": ["mastery_xp_boost=3"]
-        },
-        {
-          "id": "48",
-          "stats": ["essence_find=5"]
-        },
-        {
-          "id": "49",
-          "stats": ["item_find=5"]
-        },
-        {
-          "id": "50",
-          "relics": ["110:chef"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["cook", "party_protection", "independence", "magic_inept"],
       "slots": ["weapon_1", "armor_1", "accessory_1"],
-      "stats": ["hp=25", "atk=0", "mp=0", "spd=150"],
-      "type": "player"
+      "stats": ["hp=25", "atk=0", "mp=0", "spd=150"]
     },
     {
       "id": "wizard",
-      "masteryRewards": [
-        {
-          "id": "15",
-          "stats": ["evade=1"]
-        },
-        {
-          "id": "19",
-          "stats": ["evade=1"]
-        },
-        {
-          "id": "25",
-          "skills": ["foretell"],
-          "stats": []
-        },
-        {
-          "id": "44",
-          "stats": ["evade=2"]
-        },
-        {
-          "id": "45",
-          "stats": ["chance_for_dungeon_keys=5"]
-        },
-        {
-          "id": "50",
-          "relics": ["111:wizard"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["eviscerate", "precognition", "magic_master"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1", "accessory_2"],
-      "stats": ["hp=25", "atk=5", "mp=35", "spd=100"],
-      "type": "player"
+      "stats": ["hp=25", "atk=5", "mp=35", "spd=100"]
     },
     {
       "id": "blacksmith",
-      "masteryRewards": [
-        {
-          "id": "25",
-          "skills": ["revenge"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["112:blacksmith"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["hardy", "taunt"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1"],
-      "stats": ["hp=40", "atk=6", "mp=35", "spd=100"],
-      "type": "player"
+      "stats": ["hp=40", "atk=6", "mp=35", "spd=100"]
     },
     {
       "id": "tavern_owner",
-      "masteryRewards": [
-        {
-          "id": "25",
-          "skills": ["essence_thirst"],
-          "stats": []
-        },
-        {
-          "id": "50",
-          "relics": ["113:tavern_owner"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["closing_time", "tavern_upgrade_boost"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1", "accessory_2"],
-      "stats": ["hp=35", "atk=8", "mp=35", "spd=100"],
-      "type": "player"
+      "stats": ["hp=35", "atk=8", "mp=35", "spd=100"]
     },
     {
       "id": "janitor",
-      "masteryRewards": [
-        {
-          "id": "50",
-          "relics": ["114:janitor"],
-          "stats": []
-        }
-      ],
-      "maxLevel": 50,
       "skills": ["off_my_floor"],
       "slots": ["weapon_1", "shield_1", "armor_1", "accessory_1", "accessory_2"],
-      "stats": ["hp=10", "atk=1", "mp=5", "spd=100"],
-      "type": "player"
+      "stats": ["hp=10", "atk=1", "mp=5", "spd=100"]
     }
   ],
   "dungeons": [
-    {
-      "atkIncreasePerArea": 2,
-      "hpIncreasePerArea": 13,
-      "id": "castle"
-    },
-    {
-      "atkIncreasePerArea": 3,
-      "hpIncreasePerArea": 15,
-      "id": "primal"
-    }
+    { "id": "castle", "atkIncreasePerArea": 2, "hpIncreasePerArea": 13 },
+    { "id": "primal", "atkIncreasePerArea": 3, "hpIncreasePerArea": 15 }
   ],
   "items": [
     {
@@ -689,312 +144,193 @@
     }
   ],
   "masteryRewards": [
-    {
-      "id": "1",
-      "stats": []
-    },
-    {
-      "id": "2",
-      "stats": ["atk=1"]
-    },
-    {
-      "id": "3",
-      "stats": ["hp=2"]
-    },
-    {
-      "id": "4",
-      "stats": ["mp=2"]
-    },
-    {
-      "id": "5",
-      "stats": []
-    },
-    {
-      "id": "6",
-      "stats": ["atk=1"]
-    },
-    {
-      "id": "7",
-      "stats": ["hp=2"]
-    },
-    {
-      "id": "8",
-      "stats": ["mp=2"]
-    },
-    {
-      "id": "9",
-      "stats": ["dmg_reduction=1"]
-    },
-    {
-      "id": "10",
-      "stats": []
-    },
-    {
-      "id": "11",
-      "stats": ["atk=2"]
-    },
-    {
-      "id": "12",
-      "stats": ["hp=3"]
-    },
-    {
-      "id": "13",
-      "stats": ["mp=2"]
-    },
-    {
-      "id": "14",
-      "stats": ["atk=1"]
-    },
-    {
-      "id": "15",
-      "stats": ["dmg_reduction=1"]
-    },
-    {
-      "id": "16",
-      "stats": ["hp=3"]
-    },
-    {
-      "id": "17",
-      "stats": ["mp=2"]
-    },
-    {
-      "id": "18",
-      "stats": ["dmg_reduction=1"]
-    },
-    {
-      "id": "19",
-      "stats": ["dmg_reduction=1"]
-    },
-    {
-      "id": "20",
-      "stats": ["crit_bonus=2"]
-    },
-    {
-      "id": "21",
-      "stats": ["crit_chance=1"]
-    },
-    {
-      "id": "22",
-      "stats": ["hp=5"]
-    },
-    {
-      "id": "23",
-      "stats": ["hp=5"]
-    },
-    {
-      "id": "24",
-      "stats": ["dmg_reduction=1"]
-    },
-    {
-      "id": "25",
-      "stats": ["atk=1"]
-    },
-    {
-      "id": "26",
-      "stats": ["hp=5"]
-    },
-    {
-      "id": "27",
-      "stats": ["hp=5"]
-    },
-    {
-      "id": "28",
-      "stats": ["atk=3"]
-    },
-    {
-      "id": "29",
-      "stats": ["mp=5"]
-    },
-    {
-      "id": "30",
-      "stats": ["status_resist=2"]
-    },
-    {
-      "id": "31",
-      "stats": ["crit_bonus=5"]
-    },
-    {
-      "id": "32",
-      "stats": ["hp=10"]
-    },
-    {
-      "id": "33",
-      "stats": ["hp=10"]
-    },
-    {
-      "id": "34",
-      "stats": ["hp_regen=3"]
-    },
-    {
-      "id": "35",
-      "stats": ["hp_boost=5"]
-    },
-    {
-      "id": "36",
-      "stats": ["gold_find=2"]
-    },
-    {
-      "id": "37",
-      "stats": ["item_find=1"]
-    },
-    {
-      "id": "38",
-      "stats": ["atk=5"]
-    },
-    {
-      "id": "39",
-      "stats": ["atk=5"]
-    },
-    {
-      "id": "40",
-      "stats": ["atk_boost=5"]
-    },
-    {
-      "id": "41",
-      "stats": ["crit_chance=1"]
-    },
-    {
-      "id": "42",
-      "stats": ["atk_boost=2"]
-    },
-    {
-      "id": "43",
-      "stats": ["hp_boost=2"]
-    },
-    {
-      "id": "44",
-      "stats": ["dmg_reduction=2"]
-    },
-    {
-      "id": "45",
-      "stats": ["phys_boost=5"]
-    },
-    {
-      "id": "46",
-      "stats": ["atk_boost=2"]
-    },
-    {
-      "id": "47",
-      "stats": ["hp_boost=2"]
-    },
-    {
-      "id": "48",
-      "stats": ["hp_regen=3"]
-    },
-    {
-      "id": "49",
-      "stats": ["essence_find=3"]
-    },
-    {
-      "id": "50",
-      "stats": ["hp=1"]
-    }
+    { "id": "1:all_charcters", "stats": [] },
+    { "id": "2:all_charcters", "stats": ["atk=1"] },
+    { "id": "3:all_charcters", "stats": ["hp=2"] },
+    { "id": "4:all_charcters", "stats": ["mp=2"] },
+    { "id": "5:all_charcters", "stats": [] },
+    { "id": "6:all_charcters", "stats": ["atk=1"] },
+    { "id": "7:all_charcters", "stats": ["hp=2"] },
+    { "id": "8:all_charcters", "stats": ["mp=2"] },
+    { "id": "9:all_charcters", "stats": ["dmg_reduction=1"] },
+    { "id": "10:all_charcters", "stats": [] },
+    { "id": "11:all_charcters", "stats": ["atk=2"] },
+    { "id": "12:all_charcters", "stats": ["hp=3"] },
+    { "id": "13:all_charcters", "stats": ["mp=2"] },
+    { "id": "14:all_charcters", "stats": ["atk=1"] },
+    { "id": "15:all_charcters", "stats": ["dmg_reduction=1"] },
+    { "id": "16:all_charcters", "stats": ["hp=3"] },
+    { "id": "17:all_charcters", "stats": ["mp=2"] },
+    { "id": "18:all_charcters", "stats": ["dmg_reduction=1"] },
+    { "id": "19:all_charcters", "stats": ["dmg_reduction=1"] },
+    { "id": "20:all_charcters", "stats": ["crit_bonus=2"] },
+    { "id": "21:all_charcters", "stats": ["crit_chance=1"] },
+    { "id": "22:all_charcters", "stats": ["hp=5"] },
+    { "id": "23:all_charcters", "stats": ["hp=5"] },
+    { "id": "24:all_charcters", "stats": ["dmg_reduction=1"] },
+    { "id": "25:all_charcters", "stats": ["atk=1"] },
+    { "id": "26:all_charcters", "stats": ["hp=5"] },
+    { "id": "27:all_charcters", "stats": ["hp=5"] },
+    { "id": "28:all_charcters", "stats": ["atk=3"] },
+    { "id": "29:all_charcters", "stats": ["mp=5"] },
+    { "id": "30:all_charcters", "stats": ["status_resist=2"] },
+    { "id": "31:all_charcters", "stats": ["crit_bonus=5"] },
+    { "id": "32:all_charcters", "stats": ["hp=10"] },
+    { "id": "33:all_charcters", "stats": ["hp=10"] },
+    { "id": "34:all_charcters", "stats": ["hp_regen=3"] },
+    { "id": "35:all_charcters", "stats": ["hp_boost=5"] },
+    { "id": "36:all_charcters", "stats": ["gold_find=2"] },
+    { "id": "37:all_charcters", "stats": ["item_find=1"] },
+    { "id": "38:all_charcters", "stats": ["atk=5"] },
+    { "id": "39:all_charcters", "stats": ["atk=5"] },
+    { "id": "40:all_charcters", "stats": ["atk_boost=5"] },
+    { "id": "41:all_charcters", "stats": ["crit_chance=1"] },
+    { "id": "42:all_charcters", "stats": ["atk_boost=2"] },
+    { "id": "43:all_charcters", "stats": ["hp_boost=2"] },
+    { "id": "44:all_charcters", "stats": ["dmg_reduction=2"] },
+    { "id": "45:all_charcters", "stats": ["phys_boost=5"] },
+    { "id": "46:all_charcters", "stats": ["atk_boost=2"] },
+    { "id": "47:all_charcters", "stats": ["hp_boost=2"] },
+    { "id": "48:all_charcters", "stats": ["hp_regen=3"] },
+    { "id": "49:all_charcters", "stats": ["essence_find=3"] },
+    { "id": "50:all_charcters", "stats": ["hp=1"] },
+    { "id": "4:soda_junkie", "stats": ["hp=2"] },
+    { "id": "9:soda_junkie", "stats": ["evade=1"] },
+    { "id": "15:soda_junkie", "stats": ["evade=3"] },
+    { "id": "18:soda_junkie", "stats": ["evade=1"] },
+    { "id": "19:soda_junkie", "stats": ["evade=1"] },
+    { "id": "24:soda_junkie", "stats": ["evade=2"] },
+    { "id": "25:soda_junkie", "skills": ["burp"], "stats": [] },
+    { "id": "50:soda_junkie", "relics": ["100:soda_junkie"], "stats": [] },
+    { "id": "15:carpenter", "stats": ["atk_boost=3"] },
+    { "id": "18:carpenter", "stats": ["atk=2"] },
+    { "id": "19:carpenter", "stats": ["atk=2"] },
+    { "id": "23:carpenter", "stats": ["mp=5"] },
+    { "id": "25:carpenter", "skills": ["sharpen"], "stats": [] },
+    { "id": "50:carpenter", "relics": ["101:carpenter"], "stats": [] },
+    { "id": "9:miner", "stats": ["ore_find=2"] },
+    { "id": "15:miner", "stats": ["ore_find=5"] },
+    { "id": "18:miner", "stats": ["ore_find=2"] },
+    { "id": "19:miner", "stats": ["ore_find=2"] },
+    { "id": "24:miner", "stats": ["ore_find=2"] },
+    { "id": "25:miner", "skills": ["transmute"], "stats": [] },
+    { "id": "50:miner", "relics": ["102:miner"], "stats": [] },
+    { "id": "9:nurse", "stats": ["status_resist=2"] },
+    { "id": "15:nurse", "stats": ["status_resist=5"] },
+    { "id": "18:nurse", "stats": ["status_resist=2"] },
+    { "id": "19:nurse", "stats": ["status_resist=2"] },
+    { "id": "24:nurse", "stats": ["status_resist=2"] },
+    { "id": "25:nurse", "skills": ["group_heal"], "stats": [] },
+    { "id": "50:nurse", "relics": ["103:nurse"], "stats": [] },
+    { "id": "9:psychic", "stats": ["mp_regen=2"] },
+    { "id": "15:psychic", "stats": ["mp_regen=5"] },
+    { "id": "17:psychic", "stats": ["magic_boost=3"] },
+    { "id": "18:psychic", "stats": ["mp_regen=2"] },
+    { "id": "19:psychic", "stats": ["magic_boost=3"] },
+    { "id": "24:psychic", "stats": ["magic_boost=3"] },
+    { "id": "25:psychic", "skills": ["recharge"], "stats": [] },
+    { "id": "50:psychic", "relics": ["104:psychic"], "stats": [] },
+    { "id": "9:thief", "stats": ["crit_chance=1"] },
+    { "id": "15:thief", "stats": ["crit_chance=3"] },
+    { "id": "18:thief", "stats": ["evade=3"] },
+    { "id": "19:thief", "stats": ["crit_chance=1"] },
+    { "id": "24:thief", "stats": ["evade=3"] },
+    { "id": "25:thief", "skills": ["ransack"], "stats": [] },
+    { "id": "50:thief", "relics": ["105:thief"], "stats": [] },
+    { "id": "9:huntress", "stats": ["dmg_reflection=2"] },
+    { "id": "15:huntress", "stats": ["dmg_reflection=5"] },
+    { "id": "18:huntress", "stats": ["dmg_reflection=3"] },
+    { "id": "19:huntress", "stats": ["dmg_reflection=3"] },
+    { "id": "24:huntress", "stats": ["dmg_reflection=3"] },
+    { "id": "25:huntress", "skills": ["mark"], "stats": [] },
+    { "id": "50:huntress", "relics": ["106:huntress"], "stats": [] },
+    { "id": "25:darkmage", "skills": ["curse"], "stats": [] },
+    { "id": "50:darkmage", "relics": ["107:darkmage"], "stats": [] },
+    { "id": "4:dual_wield", "stats": ["atk=2"] },
+    { "id": "8:dual_wield", "stats": ["atk=2"] },
+    { "id": "13:dual_wield", "stats": ["atk=2"] },
+    { "id": "17:dual_wield", "stats": ["atk=2"] },
+    { "id": "25:dual_wield", "skills": ["stun"], "stats": [] },
+    { "id": "29:dual_wield", "stats": ["atk=5"] },
+    { "id": "50:dual_wield", "relics": ["108:dual_wield"], "stats": [] },
+    { "id": "5:dark_lord", "stats": ["atk=1"] },
+    { "id": "10:dark_lord", "stats": [] },
+    { "id": "25:dark_lord", "skills": ["dark_savior"], "stats": [] },
+    { "id": "50:dark_lord", "relics": ["109:dark_lord"], "stats": [] },
+    { "id": "2:chef", "stats": ["gold_find=1"] },
+    { "id": "3:chef", "stats": ["item_find=1"] },
+    { "id": "4:chef", "meals": ["meal_3"], "stats": [] },
+    { "id": "6:chef", "stats": ["chance_for_dungeon_keys=1"] },
+    { "id": "7:chef", "stats": ["mastery_xp_boost=1"] },
+    { "id": "8:chef", "stats": ["atk=2"] },
+    { "id": "9:chef", "meals": ["meal_4"], "stats": [] },
+    { "id": "11:chef", "stats": ["gold_find=2"] },
+    { "id": "13:chef", "stats": ["atk=2"] },
+    { "id": "14:chef", "stats": ["item_find=2"] },
+    { "id": "15:chef", "meals": ["meal_5"], "stats": [] },
+    { "id": "16:chef", "stats": ["mastery_xp_boost=1"] },
+    { "id": "17:chef", "stats": ["chance_for_dungeon_keys=1"] },
+    { "id": "20:chef", "meals": ["meal_6"], "stats": [] },
+    { "id": "21:chef", "stats": ["gold_find=2"] },
+    { "id": "25:chef", "meals": ["meal_7"], "stats": [] },
+    { "id": "26:chef", "stats": ["gold_find=2"] },
+    { "id": "27:chef", "stats": ["item_find=2"] },
+    { "id": "28:chef", "stats": ["ore_find=2"] },
+    { "id": "29:chef", "stats": ["mastery_xp_boost=2"] },
+    { "id": "30:chef", "meals": ["meal_8"], "stats": [] },
+    { "id": "31:chef", "stats": ["gold_find=2"] },
+    { "id": "33:chef", "stats": ["ore_find=2"] },
+    { "id": "34:chef", "stats": ["essence_find=3"] },
+    { "id": "35:chef", "meals": ["meal_9"], "stats": [] },
+    { "id": "36:chef", "stats": ["gold_find=3"] },
+    { "id": "37:chef", "stats": ["item_find=2"] },
+    { "id": "38:chef", "stats": ["essence_find=3"] },
+    { "id": "40:chef", "meals": ["meal_10"], "stats": [] },
+    { "id": "41:chef", "stats": ["gold_find=5"] },
+    { "id": "45:chef", "meals": ["meal_11"], "stats": [] },
+    { "id": "46:chef", "stats": ["gold_find=5"] },
+    { "id": "47:chef", "stats": ["mastery_xp_boost=3"] },
+    { "id": "48:chef", "stats": ["essence_find=5"] },
+    { "id": "49:chef", "stats": ["item_find=5"] },
+    { "id": "50:chef", "relics": ["110:chef"], "stats": [] },
+    { "id": "15:wizard", "stats": ["evade=1"] },
+    { "id": "19:wizard", "stats": ["evade=1"] },
+    { "id": "25:wizard", "skills": ["foretell"], "stats": [] },
+    { "id": "44:wizard", "stats": ["evade=2"] },
+    { "id": "45:wizard", "stats": ["chance_for_dungeon_keys=5"] },
+    { "id": "50:wizard", "relics": ["111:wizard"], "stats": [] },
+    { "id": "25:blacksmith", "skills": ["revenge"], "stats": [] },
+    { "id": "50:blacksmith", "relics": ["112:blacksmith"], "stats": [] },
+    { "id": "25:tavern_owner", "skills": ["essence_thirst"], "stats": [] },
+    { "id": "50:tavern_owner", "relics": ["113:tavern_owner"], "stats": [] },
+    { "id": "50:janitor", "relics": ["114:janitor"], "stats": [] }
   ],
   "members": [
-    {
-      "id": "whale",
-      "maxLevel": 8,
-      "stats": ["hp_boost=1"]
-    },
-    {
-      "id": "platypus",
-      "maxLevel": 8,
-      "stats": ["status_resist=1"]
-    },
-    {
-      "id": "hedgehog",
-      "maxLevel": 8,
-      "stats": ["dmg_reflection=1"]
-    },
-    {
-      "id": "pug",
-      "maxLevel": 8,
-      "stats": ["gold_find=2"]
-    },
-    {
-      "id": "rock",
-      "maxLevel": 8,
-      "stats": ["dmg_reduction=1"]
-    },
-    {
-      "id": "chameleon",
-      "maxLevel": 8,
-      "stats": ["evade=1"]
-    },
-    {
-      "id": "mosquito",
-      "maxLevel": 8,
-      "stats": ["phys_boost=1"]
-    },
-    {
-      "id": "cat",
-      "maxLevel": 8,
-      "stats": ["item_find=1"]
-    },
-    {
-      "id": "fairy",
-      "maxLevel": 8,
-      "stats": ["essence_find=1"]
-    },
-    {
-      "id": "angel",
-      "maxLevel": 8,
-      "stats": ["magic_boost=1"]
-    }
+    { "id": "whale", "stats": ["hp_boost=1"] },
+    { "id": "platypus", "stats": ["status_resist=1"] },
+    { "id": "hedgehog", "stats": ["dmg_reflection=1"] },
+    { "id": "pug", "stats": ["gold_find=2"] },
+    { "id": "rock", "stats": ["dmg_reduction=1"] },
+    { "id": "chameleon", "stats": ["evade=1"] },
+    { "id": "mosquito", "stats": ["phys_boost=1"] },
+    { "id": "cat", "stats": ["item_find=1"] },
+    { "id": "fairy", "stats": ["essence_find=1"] },
+    { "id": "angel", "stats": ["magic_boost=1"] }
   ],
   "platings": [
-    {
-      "id": "9:iron_bar",
-      "stats": ["atk_boost=5"]
-    },
-    {
-      "id": "30:copper_bar",
-      "stats": ["status_resist=5"]
-    },
-    {
-      "id": "31:silver_bar",
-      "stats": ["crit_bonus=50"]
-    },
-    {
-      "id": "32:gold_bar",
-      "stats": ["gold_multiplier=0.05"]
-    },
-    {
-      "id": "33:platinum_bar",
-      "stats": ["hp_boost=10"]
-    },
-    {
-      "id": "34:uranium_bar",
-      "stats": ["all_stat_boost=7"]
-    },
-    {
-      "id": "44:ruby",
-      "stats": ["withering=1"]
-    },
-    {
-      "id": "40:aquamarine",
-      "stats": ["hp_regen=5"]
-    },
-    {
-      "id": "35:jade",
-      "stats": ["item_find=3"]
-    },
-    {
-      "id": "38:malachite",
-      "stats": ["essence_multiplier=0.1"]
-    },
-    {
-      "id": "39:opal",
-      "stats": ["evade=2"]
-    },
-    {
-      "id": "42:emerald",
-      "stats": ["dmg_reduction=1"]
-    },
-    {
-      "id": "37:labradorite",
-      "stats": ["battle_credits_per_boss=1"]
-    }
+    { "id": "9:iron_bar", "stats": ["atk_boost=5"] },
+    { "id": "30:copper_bar", "stats": ["status_resist=5"] },
+    { "id": "31:silver_bar", "stats": ["crit_bonus=50"] },
+    { "id": "32:gold_bar", "stats": ["gold_multiplier=0.05"] },
+    { "id": "33:platinum_bar", "stats": ["hp_boost=10"] },
+    { "id": "34:uranium_bar", "stats": ["all_stat_boost=7"] },
+    { "id": "44:ruby", "stats": ["withering=1"] },
+    { "id": "40:aquamarine", "stats": ["hp_regen=5"] },
+    { "id": "35:jade", "stats": ["item_find=3"] },
+    { "id": "38:malachite", "stats": ["essence_multiplier=0.1"] },
+    { "id": "39:opal", "stats": ["evade=2"] },
+    { "id": "42:emerald", "stats": ["dmg_reduction=1"] },
+    { "id": "37:labradorite", "stats": ["battle_credits_per_boss=1"] }
   ],
   "relics": [
     {
@@ -1135,11 +471,7 @@
       "stats": ["hp=2", "atk=2", "mp=2"],
       "type": "class"
     },
-    {
-      "id": "114:janitor",
-      "stats": ["hp=2", "atk=2", "mp=2"],
-      "type": "class"
-    }
+    { "id": "114:janitor", "type": "class", "stats": ["hp=2", "atk=2", "mp=2"] }
   ],
   "skills": [
     {
