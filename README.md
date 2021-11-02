@@ -1,2 +1,1 @@
-# SodaDungeon2Data
-Created with CodeSandbox
+# Soda Dungeon 2 Data
